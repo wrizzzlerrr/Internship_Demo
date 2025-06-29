@@ -1,34 +1,39 @@
+
+<div align="center">
+
 # Crypto Web Tool
 
 A beautiful, full-stack web application for secure text and file encryption/decryption using industry-standard algorithms.
 
 > **Secure Your Data, Empower Your Future**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square)
-![GitHub language](https://img.shields.io/github/languages/count/your-username/your-repo-name?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repo-name?style=flat-square)
+<br>
+
+<img src="https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square">
+<img src="https://img.shields.io/github/languages/top/your-username/your-repo-name?style=flat-square">
+<img src="https://img.shields.io/github/languages/count/your-username/your-repo-name?style=flat-square">
 
 ---
 
 ### 🛠️ Built with the tools and technologies:
 
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-DD3735?style=flat-square&logo=autoprefixer)
-![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+<img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
+<img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown">
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
+<img src="https://img.shields.io/badge/-Autoprefixer-DD3735?style=flat-square&logo=autoprefixer">
+<img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=yellow)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
-![YAML](https://img.shields.io/badge/-YAML-CF2A2A?style=flat-square&logo=yaml)
+<img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript">
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=yellow">
+<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint">
+<img src="https://img.shields.io/badge/-YAML-CF2A2A?style=flat-square&logo=yaml">
 
----
+</div>
 
 
 
