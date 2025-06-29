@@ -7,6 +7,8 @@ A beautiful, full-stack web application for secure text and file encryption/decr
 
  **Secure Your Data, Empower Your Future**
 
+ [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge)](https://webencryptiontool.vercel.app/)
+
 <br>
 
 ---
