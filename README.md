@@ -5,13 +5,9 @@
 
 A beautiful, full-stack web application for secure text and file encryption/decryption using industry-standard algorithms.
 
-> **Secure Your Data, Empower Your Future**
+ **Secure Your Data, Empower Your Future**
 
 <br>
-
-<img src="https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square">
-<img src="https://img.shields.io/github/languages/top/your-username/your-repo-name?style=flat-square">
-<img src="https://img.shields.io/github/languages/count/your-username/your-repo-name?style=flat-square">
 
 ---
 
