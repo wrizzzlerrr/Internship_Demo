@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: crypto-web-tool-backend
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: gunicorn app:app --chdir backend
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
