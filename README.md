@@ -34,8 +34,8 @@ A beautiful, full-stack web application for secure text and file encryption/decr
 <img src="https://img.shields.io/badge/-YAML-CF2A2A?style=flat-square&logo=yaml">
 
 </div>
----
 
+---
 
 ## Features
 
